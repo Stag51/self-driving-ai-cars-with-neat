@@ -1,5 +1,5 @@
-# This Code is Heavily Inspired By The YouTuber: Cheesy AI
-# Code Changed, Optimized And Commented By: NeuralNine (Florian Dedov)
+# Author: Saad Shabbir
+# Developed at HeadQuarters at S.T.A.G LLc.
 
 import math
 import random
