@@ -13,8 +13,8 @@ import pygame
 # WIDTH = 1600
 # HEIGHT = 880
 
-WIDTH = 1920
-HEIGHT = 1080
+WIDTH = 1280
+HEIGHT = 1024
 
 CAR_SIZE_X = 60    
 CAR_SIZE_Y = 60
@@ -32,7 +32,7 @@ class Car:
         self.rotated_sprite = self.sprite 
 
         # self.position = [690, 740] # Starting Position
-        self.position = [830, 920] # Starting Position
+        self.position = [530, 760] # Starting Position
         self.angle = 0
         self.speed = 0
 
