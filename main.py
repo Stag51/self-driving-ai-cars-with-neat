@@ -32,7 +32,7 @@ class Car:
         self.rotated_sprite = self.sprite 
 
         # self.position = [690, 740] # Starting Position
-        self.position = [530, 760] # Starting Position
+        self.position = [830, 920] # Starting Position
         self.angle = 0
         self.speed = 0
 
