@@ -23,6 +23,8 @@ BORDER_COLOR = (255, 255, 255, 255) # Color To Crash on Hit
 
 current_generation = 0 # Generation counter
 
+
+# defining the main car class 
 class Car:
 
     def __init__(self):
