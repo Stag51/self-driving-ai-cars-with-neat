@@ -13,8 +13,10 @@ import pygame
 # WIDTH = 1600
 # HEIGHT = 880
 
-WIDTH = 1280
-HEIGHT = 1024
+
+# Writtin the main frame for 1920*1080ox
+WIDTH = 1920
+HEIGHT = 1080
 
 CAR_SIZE_X = 60    
 CAR_SIZE_Y = 60
